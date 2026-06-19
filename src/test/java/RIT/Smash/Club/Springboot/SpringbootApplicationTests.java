@@ -1,10 +1,10 @@
-package RIT.Smash.Club.Overlays;
+package RIT.Smash.Club.Springboot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class OverlaysApplicationTests {
+class SpringbootApplicationTests {
 
 	@Test
 	void contextLoads() {
