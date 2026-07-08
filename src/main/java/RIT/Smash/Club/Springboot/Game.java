@@ -1,8 +1,12 @@
 package RIT.Smash.Club.Springboot;
 
+import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.NoArgsConstructor;
 
 @Data
+@NoArgsConstructor
+@AllArgsConstructor
 /**
  * class representing a game
  * should be contained only within a GameSet
