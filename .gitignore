@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### god please ignore these node modules ###
+node_modules/

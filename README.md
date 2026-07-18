@@ -12,5 +12,5 @@ reqs for dev:
     - Java SDK
     - Maven
     - Node
-    - Docker Desktop
+    - Docker Desktop (Docker account recommended)
     - A sharp wit and will of iron
